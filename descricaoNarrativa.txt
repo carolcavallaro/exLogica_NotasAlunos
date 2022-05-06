@@ -1,0 +1,8 @@
+- Pedir nota do primeiro semestre.
+- Pedir nota do segundo semestre.
+- Pedir nota do terceiro semestre.
+- Somar as três notas.
+- Dividir o valor total por 3.
+- Informar o valor da média dos três semestres.
+- Se a média for maior ou igual a 7, dizer que o aluno foi aprovado.
+- Se a média for menor que 7, dizer que o aluno foi reprovado.
