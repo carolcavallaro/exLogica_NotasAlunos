@@ -1,0 +1,8 @@
+TESTANDO NA PRÁTICA
+
+Para testar a execução e eficácia do fluxograma, simule o passo a passo e identifique se o resultado final está correto ou não, utilizando os seguintes valores:
+- Nota 1: 7
+- Nota 2: 8
+- Nota 3: 8
+
+E então? Qual foi a média desse aluno? Ele foi aprovado ou reprovado?
